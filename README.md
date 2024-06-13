@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React JS and Javascript**
 
-- 📄 My Resume [Click here ↗️](https://drive.google.com/file/d/14LY6-d3VteBRfMe8Dq2IVFyWrzwumrPs/view?usp=sharing)
+- 📄 My Resume [Click here ↗️](https://drive.google.com/file/d/1F569KHEdSOm9TVMYaMtuLoPFtvewDQeh/view?usp=sharing)
 
 </p>
 
